@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 255, 77);
+    text-align: center;
+}
+#heading{
+    text-align: center;
+    color: white;
+}
+#cat{
+    height: 220px;
+    width: 220px;
+}
+#dog{
+    height: 220px;
+    width: 220px;
+}
